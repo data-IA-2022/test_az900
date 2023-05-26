@@ -2,11 +2,11 @@
 
 ## Build une image avec un dockerfile :
 
-docker build -t <nom de l'image> .
+docker build -t #<nom de l'image># .
 
 ## Run de l'image :
 
-docker run -p 5000:5000 <nom de l'image>
+docker run -p 5000:5000 #<nom de l'image>#
 
 ## Voir les images dans docker : 
 
