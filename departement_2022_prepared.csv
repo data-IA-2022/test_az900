@@ -1,0 +1,101 @@
+DEP,CHEFLIEU,Chef-lieu,NCC,NCCENR
+1,1053,Bourg-en-Bresse,AIN,Ain
+2,2408,Laon,AISNE,Aisne
+3,3190,Moulins,ALLIER,Allier
+4,4070,Digne-les-Bains,ALPES DE HAUTE PROVENCE,Alpes-de-Haute-Provence
+5,5061,Gap,HAUTES ALPES,Hautes-Alpes
+6,6088,Nice,ALPES MARITIMES,Alpes-Maritimes
+7,7186,Privas,ARDECHE,Ardèche
+8,8105,Charleville-Mézières,ARDENNES,Ardennes
+9,9122,Foix,ARIEGE,Ariège
+10,10387,Troyes,AUBE,Aube
+11,11069,Carcassonne,AUDE,Aude
+12,12202,Rodez,AVEYRON,Aveyron
+13,13055,Marseille,BOUCHES DU RHONE,Bouches-du-Rhône
+14,14118,Caen,CALVADOS,Calvados
+15,15014,Aurillac,CANTAL,Cantal
+16,16015,Angoulême,CHARENTE,Charente
+17,17300,La Rochelle,CHARENTE MARITIME,Charente-Maritime
+18,18033,Bourges,CHER,Cher
+19,19272,Tulle,CORREZE,Corrèze
+21,21231,Dijon,COTE D OR,Côte-d'Or
+22,22278,Saint-Brieuc,COTES D ARMOR,Côtes-d'Armor
+23,23096,Guéret,CREUSE,Creuse
+24,24322,Périgueux,DORDOGNE,Dordogne
+25,25056,Besançon,DOUBS,Doubs
+26,26362,Valence,DROME,Drôme
+27,27229,Évreux,EURE,Eure
+28,28085,Chartres,EURE ET LOIR,Eure-et-Loir
+29,29232,Quimper,FINISTERE,Finistère
+30,30189,Nîmes,GARD,Gard
+31,31555,Toulouse,HAUTE GARONNE,Haute-Garonne
+32,32013,Auch,GERS,Gers
+33,33063,Bordeaux,GIRONDE,Gironde
+34,34172,Montpellier,HERAULT,Hérault
+35,35238,Rennes,ILLE ET VILAINE,Ille-et-Vilaine
+36,36044,Châteauroux,INDRE,Indre
+37,37261,Tours,INDRE ET LOIRE,Indre-et-Loire
+38,38185,Grenoble,ISERE,Isère
+39,39300,Lons-le-Saunier,JURA,Jura
+40,40192,Mont-de-Marsan,LANDES,Landes
+41,41018,Blois,LOIR ET CHER,Loir-et-Cher
+42,42218,Saint-Étienne,LOIRE,Loire
+43,43157,Le Puy,HAUTE LOIRE,Haute-Loire
+44,44109,Nantes,LOIRE ATLANTIQUE,Loire-Atlantique
+45,45234,Orléans,LOIRET,Loiret
+46,46042,Cahors,LOT,Lot
+47,47001,Agen,LOT ET GARONNE,Lot-et-Garonne
+48,48095,Mende,LOZERE,Lozère
+49,49007,Angers,MAINE ET LOIRE,Maine-et-Loire
+50,50502,Saint-Lô,MANCHE,Manche
+51,51108,Châlons-en-Champagne,MARNE,Marne
+52,52121,Chaumont,HAUTE MARNE,Haute-Marne
+53,53130,Laval,MAYENNE,Mayenne
+54,54395,Nancy,MEURTHE ET MOSELLE,Meurthe-et-Moselle
+55,55029,Bar-le-Duc,MEUSE,Meuse
+56,56260,Vannes,MORBIHAN,Morbihan
+57,57463,Metz,MOSELLE,Moselle
+58,58194,Nevers,NIEVRE,Nièvre
+59,59350,Lille,NORD,Nord
+60,60057,Beauvais,OISE,Oise
+61,61001,Alençon,ORNE,Orne
+62,62041,Arras,PAS DE CALAIS,Pas-de-Calais
+63,63113,Clermont-Ferrand,PUY DE DOME,Puy-de-Dôme
+64,64445,Pau,PYRENEES ATLANTIQUES,Pyrénées-Atlantiques
+65,65440,Tarbes,HAUTES PYRENEES,Hautes-Pyrénées
+66,66136,Perpignan,PYRENEES ORIENTALES,Bas-Rhin
+67,67482,Strasbourg,BAS RHIN,Haut-Rhin
+68,68066,Colmar,HAUT RHIN,Rhône
+69,69123,Lyon,RHONE,Haute-Saône
+70,70550,Vesoul,HAUTE SAONE,Saône-et-Loire
+71,71270,Mâcon,SAONE ET LOIRE,Sarthe
+72,72181,Le Mans,SARTHE,Savoie
+73,73065,Chambéry,SAVOIE,Haute-Savoie
+74,74010,Annecy,HAUTE SAVOIE,Paris
+75,75056,Paris,PARIS,Seine-Maritime
+76,76540,Rouen,SEINE MARITIME,Seine-et-Marne
+77,77288,Melun,SEINE ET MARNE,Yvelines
+78,78646,Versailles,YVELINES,Deux-Sèvres
+79,79191,Niort,DEUX SEVRES,Somme
+80,80021,Amiens,SOMME,Tarn
+81,81004,Albi,TARN,Tarn-et-Garonne
+82,82121,Montauban,TARN ET GARONNE,Var
+83,83137,Toulon,VAR,Vaucluse
+84,84007,Avignon,VAUCLUSE,Vendée
+85,85191,La Roche-sur-Yon,VENDEE,Vienne
+86,86194,Poitiers,VIENNE,Haute-Vienne
+87,87085,Limoges,HAUTE VIENNE,Vosges
+88,88160,Épinal,VOSGES,Yonne
+89,89024,Auxerre,YONNE,Territoire de Belfort
+90,90010,Belfort,TERRITOIRE DE BELFORT,Essonne
+91,91228,Évry,ESSONNE,Hauts-de-Seine
+92,92050,Nanterre,HAUTS DE SEINE,Seine-Saint-Denis
+93,93008,Bobigny,SEINE SAINT DENIS,Val-de-Marne
+94,94028,Créteil,VAL DE MARNE,Val-d'Oise
+95,95500,Pontoise,VAL D OISE,Guadeloupe
+971,97105,Basse-Terre,GUADELOUPE,Martinique
+972,97209,Fort-de-France,MARTINIQUE,Guyane
+973,97302,Cayenne,GUYANE,La Réunion
+974,97411,Saint-Denis (Réunion),LA REUNION,Mayotte
+2A,2A004,Ajaccio,CORSE DU SUD,Corse-du-Sud
+2B,2B033,Bastia,HAUTE CORSE,Haute-Corse
